@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Rohit Sharma",
+        "country": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "1200000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 2,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "Allrounder",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "950000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 3,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Offbreak",
+        "price": "1100000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 4,
+        "name": "David Warner",
+        "country": "Australia",
+        "role": "Batsman",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "1050000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 5,
+        "name": "Joe Root",
+        "country": "England",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "980000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 6,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "990000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 7,
+        "name": "Virat Kohli",
+        "country": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "1300000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 8,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "870000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 9,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "role": "Wicketkeeper",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "None",
+        "price": "920000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 10,
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "Allrounder",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": "970000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 11,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "Allrounder",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "950000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    },
+    {
+        "id": 12,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Offbreak",
+        "price": "1100000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzaPkpLlWmTq-2VrTsJ1-UNcMu7LpHcA_bw&s"
+    }
+]
