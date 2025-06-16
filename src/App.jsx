@@ -78,7 +78,7 @@ const App = () => {
         <div className='lg:px-10 px-0  py-10 bg-purple-600 border rounded-2xl'>
           <img className='w-64 h-48 mx-auto mb-4 rounded-2xl' src="https://r2.erweima.ai/imgcompressed/compressed_7526b8ee7f680e6e9b0adc6925a09922.webp" alt="" />
           <h1 className='text-center font-bold text-4xl text-white'>
-            Assemble Your Ultimate Dream 11 Cricket Team
+            Assemble Your Ultimate Dream 11 BPL Cricket Team
           </h1>
           <p className='text-center text-white mt-4 mb-4'>
             Beyond Boundaries Beyond Limits
